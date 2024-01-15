@@ -9,13 +9,13 @@
           "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
           "name": "Plato",
           "bio": "A philosopher in Classical Greece and the founder of the Academy in Athens.",
-          "photoURL": "http://localhost:8000/photos/plato.jpg"
+          "photoURL": "https://akashshah87.github.io/amajsons/photos/plato.jpg"
         },
         {
           "id": "a3bb189e-8bf9-3888-9912-ace4e6543002",
           "name": "Aristotle",
           "bio": "An ancient Greek philosopher and scientist born in the city of Stagira.",
-          "photoURL": "http://localhost:8000/photos/aristotle.jpg"
+          "photoURL": "https://akashshah87.github.io/amajsons/photos/aristotle.jpg"
         }
       ]
     },
@@ -28,13 +28,13 @@
           "id": "b9a0c7fa-221a-4f33-9049-55b62a8b2f44",
           "name": "William Shakespeare",
           "bio": "An English playwright, poet, and actor, widely regarded as the greatest writer in the English language.",
-          "photoURL": "http://localhost:8000/photos/shakespeare.jpg"
+          "photoURL": "https://akashshah87.github.io/amajsons/photos/shakespeare.jpg"
         },
         {
           "id": "77ec17b6-3026-40c4-9fb8-d62f4d169493",
           "name": "Jane Austen",
           "bio": "An English novelist known primarily for her six major novels.",
-          "photoURL": "http://localhost:8000/photos/austen.jpg"
+          "photoURL": "https://akashshah87.github.io/amajsons/photos/austen.jpg"
         }
       ]
     }
