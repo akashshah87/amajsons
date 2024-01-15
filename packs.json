@@ -89,14 +89,76 @@
       "name": "Artists",
       "description": "Explore the creativity and vision of renowned artists.",
       "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/artists.png",
-      "people": []
+      "people": [
+          {
+            "id": "a1e2b3c4-d5f6-7890-1234-567890abcdef",
+            "name": "Leonardo da Vinci",
+            "bio": "Italian polymath of the Renaissance known for his works such as the Mona Lisa and The Last Supper.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/leonardo.jpg"
+          },
+          {
+            "id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+            "name": "Vincent van Gogh",
+            "bio": "Dutch post-impressionist painter famous for works like Starry Night and Sunflowers.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/vangogh.jpg"
+          },
+          {
+            "id": "c3d4e5f6-a789-0123-4567-89abcdef0123",
+            "name": "Pablo Picasso",
+            "bio": "Spanish painter, sculptor, printmaker, and one of the most influential artists of the 20th century.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/picasso.jpg"
+          },
+          {
+            "id": "d4e5f6a7-8901-2345-6789-abcdef012345",
+            "name": "Claude Monet",
+            "bio": "French painter, a founder of French Impressionist painting.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/monet.jpg"
+          },
+          {
+            "id": "e5f6a789-0123-4567-89ab-cdef01234567",
+            "name": "Frida Kahlo",
+            "bio": "Mexican painter known for her many portraits and works inspired by the nature and artifacts of Mexico.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/kahlo.jpg"
+          }
+        ]
     },
     {
       "id": "9b8b2e2e-92e4-4c07-9c7b-7fc0b3b9a1a2",
       "name": "Musicians",
       "description": "Discover the stories of influential musicians and composers.",
       "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/musicians.png",
-      "people": []
+      "people": [
+          {
+            "id": "f1e2d3c4-b5a6-7890-1234-567890abcdef",
+            "name": "Ludwig van Beethoven",
+            "bio": "German composer and pianist, a crucial figure in the transition between the Classical and Romantic eras in Western music.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/beethoven.jpg"
+          },
+          {
+            "id": "e2d3c4b5-a6f7-8901-2345-6789abcdef01",
+            "name": "Wolfgang Amadeus Mozart",
+            "bio": "Influential composer of the Classical era, known for his symphonies, concertos, and operas.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/mozart.jpg"
+          },
+          {
+            "id": "d3c4b5a6-f7e8-9012-3456-789abcdef012",
+            "name": "Johann Sebastian Bach",
+            "bio": "German composer and musician of the Baroque period, known for compositions such as the Brandenburg Concertos.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/bach.jpg"
+          },
+          {
+            "id": "c4b5a6d7-e8f9-0123-4567-89abcdef0123",
+            "name": "Freddie Mercury",
+            "bio": "British singer-songwriter and the lead vocalist of the rock band Queen, known for his flamboyant stage persona and powerful vocals.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/mercury.jpg"
+          },
+          {
+            "id": "b5a6d7c8-f9e0-1234-5678-9abcdef01234",
+            "name": "Aretha Franklin",
+            "bio": "American singer, songwriter, and civil rights activist, known as the 'Queen of Soul' and famous for songs like 'Respect'.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/franklin.jpg"
+          }
+        ]
     },
     {
       "id": "c5f67bb5-43aa-4566-b8b2-8f256a550d2f",
@@ -110,7 +172,38 @@
       "name": "Culinary Masters",
       "description": "A journey through the lives and creations of renowned chefs and culinary experts.",
       "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/chefs.png",
-      "people": []
+      "people": [
+          {
+            "id": "g1h2i3j4-k5l6-m7n8-1234-567890abcdef",
+            "name": "Gordon Ramsay",
+            "bio": "British chef, restaurateur, writer, and television personality, known for his fiery temper and high standards in the kitchen.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/ramsay.jpg"
+          },
+          {
+            "id": "h2i3j4k5-l6m7-n8o9-2345-6789abcdef01",
+            "name": "Julia Child",
+            "bio": "American cooking teacher, author, and television personality, known for bringing French cuisine to the American public.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/child.jpg"
+          },
+          {
+            "id": "i3j4k5l6-m7n8-o9p0-3456-789abcdef012",
+            "name": "Anthony Bourdain",
+            "bio": "American chef, author, and travel documentarian, known for his explorations of international culture, cuisine, and the human condition.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/bourdain.jpg"
+          },
+          {
+            "id": "j4k5l6m7-n8o9-p0q1-4567-89abcdef0123",
+            "name": "Massimo Bottura",
+            "bio": "Italian restaurateur and an innovative chef, known for his three-Michelin-star restaurant Osteria Francescana.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/bottura.jpg"
+          },
+          {
+            "id": "k5l6m7n8-o9p0-q1r2-5678-9abcdef01234",
+            "name": "Ferran Adrià",
+            "bio": "Spanish chef famous for molecular gastronomy, and the former head chef of the elBulli restaurant.",
+            "photoURL": "https://akashshah87.github.io/amajsons/photos/people/adria.jpg"
+          }
+        ]
     },
     {
       "id": "4b76a923-390a-4d9a-ae88-e4f3f3d6baf8",
