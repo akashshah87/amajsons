@@ -4,7 +4,7 @@
       "id": "1b9d6bcd-3bfb-4f9d-8466-8b4a3b9d6c8a",
       "name": "Philosophers",
       "description": "Wisdom from famous philosophers.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/philosophers.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/philosophers.png",
       "people": [
         {
           "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
@@ -24,7 +24,7 @@
       "id": "72e6f31b-e9df-4d7e-97dc-70a72d0e0e03",
       "name": "Writers",
       "description": "The world of legendary writers.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/writers.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/writers.png",
       "people": [
         {
           "id": "b9a0c7fa-221a-4f33-9049-55b62a8b2f44",
@@ -44,7 +44,7 @@
       "id": "43f17c35-e2b2-4d8f-9085-d37d6b1de3f4",
       "name": "Scientists",
       "description": "Journey through the lives of groundbreaking scientists.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/scientists.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/scientists.png",
       "people": [
         {
           "id": "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
@@ -88,49 +88,49 @@
       "id": "26d55a5e-64b5-4c3f-a6d4-7b5a3a2b57f1",
       "name": "Artists",
       "description": "Explore the creativity and vision of renowned artists.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/artists.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/artists.png",
       "people": []
     },
     {
       "id": "9b8b2e2e-92e4-4c07-9c7b-7fc0b3b9a1a2",
       "name": "Musicians",
       "description": "Discover the stories of influential musicians and composers.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/musicians.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/musicians.png",
       "people": []
     },
     {
       "id": "c5f67bb5-43aa-4566-b8b2-8f256a550d2f",
       "name": "World Leaders",
       "description": "Profiles of influential leaders throughout history and current times.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/leaders.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/leaders.png",
       "people": []
     },
     {
       "id": "7d3e4b77-86a1-4e45-9aaf-8c8f65aad35e",
       "name": "Culinary Masters",
       "description": "A journey through the lives and creations of renowned chefs and culinary experts.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/chefs.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/chefs.png",
       "people": []
     },
     {
       "id": "4b76a923-390a-4d9a-ae88-e4f3f3d6baf8",
       "name": "Cinema Legends",
       "description": "Profiles of iconic film directors, actors, and movie industry pioneers.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/cinema.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/cinema.png",
       "people": []
     },
     {
       "id": "e8f13f28-6d1a-4b8e-8642-8b5a3c837d9b",
       "name": "Sports Heroes",
       "description": "Stories of legendary athletes and sports personalities.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/sports.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/sports.png",
       "people": []
     },
     {
       "id": "f1b31c3b-4198-4c47-a3dc-1aef92fe0c3e",
       "name": "Adventure and Explorers",
       "description": "Profiles of famous explorers and adventurers.",
-      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/explorers.jpg",
+      "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/explorers.png",
       "people": []
     }
   ]
