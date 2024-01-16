@@ -1,19 +1,19 @@
 {
     "packs": [
         {
-            "id": "1b9d6bcd-3bfb-4f9d-8466-8b4a3b9d6c8a",
+            "id": "13c9dfe1-855e-4760-98fa-fa8e29fa6fb4",
             "name": "Philosophers",
             "description": "Wisdom from famous philosophers.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/philosophers.png",
             "people": [
                 {
-                    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+                    "id": "48ef1667-f3a9-4895-9ffe-e4a85c750256",
                     "name": "Plato",
                     "bio": "A philosopher in Classical Greece and the founder of the Academy in Athens.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/plato.jpg"
                 },
                 {
-                    "id": "a3bb189e-8bf9-3888-9912-ace4e6543002",
+                    "id": "fc38eaa8-4c30-4d62-a929-8aff6bf6ca69",
                     "name": "Aristotle",
                     "bio": "An ancient Greek philosopher and scientist born in the city of Stagira.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/aristotle.jpg"
@@ -21,19 +21,19 @@
             ]
         },
         {
-            "id": "72e6f31b-e9df-4d7e-97dc-70a72d0e0e03",
+            "id": "b42db0e2-4f9f-42fe-b923-002bda5ca8ff",
             "name": "Writers",
             "description": "The world of legendary writers.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/writers.png",
             "people": [
                 {
-                    "id": "b9a0c7fa-221a-4f33-9049-55b62a8b2f44",
+                    "id": "c73985ce-4801-4030-9df3-0b9dbd2528a3",
                     "name": "William Shakespeare",
                     "bio": "An English playwright, poet, and actor, widely regarded as the greatest writer in the English language.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/shakespeare.jpg"
                 },
                 {
-                    "id": "77ec17b6-3026-40c4-9fb8-d62f4d169493",
+                    "id": "1f685532-3ccd-4ec9-b892-08d1d05c9abd",
                     "name": "Jane Austen",
                     "bio": "An English novelist known primarily for her six major novels.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/austen.jpg"
@@ -41,43 +41,43 @@
             ]
         },
         {
-            "id": "43f17c35-e2b2-4d8f-9085-d37d6b1de3f4",
+            "id": "273cb184-d724-4e39-bebc-8815126615d8",
             "name": "Scientists",
             "description": "Journey through the lives of groundbreaking scientists.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/scientists.png",
             "people": [
                 {
-                    "id": "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
+                    "id": "0e67fbbd-711b-4920-bf6b-1333c02dfb31",
                     "name": "Albert Einstein",
                     "bio": "Theoretical physicist known for the theory of relativity and the equation E=mc^2.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/einstein.jpg"
                 },
                 {
-                    "id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+                    "id": "8fce4922-39a6-4e3d-9a3f-fb168c470226",
                     "name": "Marie Curie",
                     "bio": "Pioneer in the study of radioactivity and the first person to win Nobel Prizes in two different scientific fields.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/curie.jpg"
                 },
                 {
-                    "id": "c3d4e5f6-a789-0123-4567-89abcdef0123",
+                    "id": "1452ce73-ae99-4c6a-a2e8-3b9f0ec634c2",
                     "name": "Isaac Newton",
                     "bio": "Influential mathematician and physicist, famous for his laws of motion and universal gravitation.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/newton.jpg"
                 },
                 {
-                    "id": "d4e5f6a7-8901-2345-6789-abcdef012345",
+                    "id": "1eb4518a-e9b0-42a3-a28f-af9e8a7d3991",
                     "name": "Nikola Tesla",
                     "bio": "Inventor and electrical engineer known for his pioneering work on alternating current electrical systems.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/tesla.jpg"
                 },
                 {
-                    "id": "e5f6a789-0123-4567-89ab-cdef01234567",
+                    "id": "f7399e8b-b983-4d83-817e-2fd0431e95fc",
                     "name": "Stephen Hawking",
                     "bio": "Theoretical physicist and cosmologist known for his work on black holes and the nature of the universe.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/hawking.jpg"
                 },
                 {
-                    "id": "f6a7890b-1234-5678-9abc-def012345678",
+                    "id": "fe051ace-f9f9-4e8a-a01d-255c4c7c5978",
                     "name": "Rosalind Franklin",
                     "bio": "Chemist and X-ray crystallographer whose work was central to understanding the molecular structures of DNA.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/franklin.jpg"
@@ -85,37 +85,37 @@
             ]
         },
         {
-            "id": "26d55a5e-64b5-4c3f-a6d4-7b5a3a2b57f1",
+            "id": "f5286742-f3fe-4310-a445-988fc2a92d9b",
             "name": "Artists",
             "description": "Explore the creativity and vision of renowned artists.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/artists.png",
             "people": [
                 {
-                    "id": "a1e2b3c4-d5f6-7890-1234-567890abcdef",
+                    "id": "c86545af-fc36-4fdb-ab26-39b613c11aab",
                     "name": "Leonardo da Vinci",
                     "bio": "Italian polymath of the Renaissance known for his works such as the Mona Lisa and The Last Supper.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/leonardo.jpg"
                 },
                 {
-                    "id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+                    "id": "7fed07ef-c023-4819-b32c-9ff3595e173f",
                     "name": "Vincent van Gogh",
                     "bio": "Dutch post-impressionist painter famous for works like Starry Night and Sunflowers.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/vangogh.jpg"
                 },
                 {
-                    "id": "c3d4e5f6-a789-0123-4567-89abcdef0123",
+                    "id": "2a24090d-566c-444b-9b6c-48992f0ccc2b",
                     "name": "Pablo Picasso",
                     "bio": "Spanish painter, sculptor, printmaker, and one of the most influential artists of the 20th century.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/picasso.jpg"
                 },
                 {
-                    "id": "d4e5f6a7-8901-2345-6789-abcdef012345",
+                    "id": "1d463edc-5558-4ba9-b162-3fde5464bbe2",
                     "name": "Claude Monet",
                     "bio": "French painter, a founder of French Impressionist painting.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/monet.jpg"
                 },
                 {
-                    "id": "e5f6a789-0123-4567-89ab-cdef01234567",
+                    "id": "72e6400e-90d3-495a-8fbc-346d51ad5943",
                     "name": "Frida Kahlo",
                     "bio": "Mexican painter known for her many portraits and works inspired by the nature and artifacts of Mexico.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/kahlo.jpg"
@@ -123,37 +123,37 @@
             ]
         },
         {
-            "id": "9b8b2e2e-92e4-4c07-9c7b-7fc0b3b9a1a2",
+            "id": "08abf842-e942-41ab-8100-f94157576601",
             "name": "Musicians",
             "description": "Discover the stories of influential musicians and composers.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/musicians.png",
             "people": [
                 {
-                    "id": "f1e2d3c4-b5a6-7890-1234-567890abcdef",
+                    "id": "528df0fe-a3d3-4380-86e1-2ee1383213b6",
                     "name": "Ludwig van Beethoven",
                     "bio": "German composer and pianist, a crucial figure in the transition between the Classical and Romantic eras in Western music.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/beethoven.jpg"
                 },
                 {
-                    "id": "e2d3c4b5-a6f7-8901-2345-6789abcdef01",
+                    "id": "1a55ab09-382a-4c61-a0e9-e526629a83c0",
                     "name": "Wolfgang Amadeus Mozart",
                     "bio": "Influential composer of the Classical era, known for his symphonies, concertos, and operas.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/mozart.jpg"
                 },
                 {
-                    "id": "d3c4b5a6-f7e8-9012-3456-789abcdef012",
+                    "id": "a24375a7-4e65-4279-91ac-782564ff4326",
                     "name": "Johann Sebastian Bach",
                     "bio": "German composer and musician of the Baroque period, known for compositions such as the Brandenburg Concertos.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/bach.jpg"
                 },
                 {
-                    "id": "c4b5a6d7-e8f9-0123-4567-89abcdef0123",
+                    "id": "295c9a2d-14a2-4b55-8930-b2b3f6471d0b",
                     "name": "Freddie Mercury",
                     "bio": "British singer-songwriter and the lead vocalist of the rock band Queen, known for his flamboyant stage persona and powerful vocals.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/mercury.jpg"
                 },
                 {
-                    "id": "b5a6d7c8-f9e0-1234-5678-9abcdef01234",
+                    "id": "57b6140d-6576-4105-b4cb-3d7b4439b944",
                     "name": "Aretha Franklin",
                     "bio": "American singer, songwriter, and civil rights activist, known as the 'Queen of Soul' and famous for songs like 'Respect'.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/franklin.jpg"
@@ -161,66 +161,66 @@
             ]
         },
         {
-            "id": "c5f67bb5-43aa-4566-b8b2-8f256a550d2f",
+            "id": "fd1362a8-7b2f-4c9e-a3e0-dd4ab3771f63",
             "name": "World Leaders",
             "description": "Profiles of influential leaders throughout history and current times.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/leaders.png",
             "people": []
         },
         {
-            "id": "7d3e4b77-86a1-4e45-9aaf-8c8f65aad35e",
+            "id": "2c39f3ca-7c0e-4738-9eef-28602f9ae622",
             "name": "Culinary Masters",
             "description": "A journey through the lives and creations of renowned chefs and culinary experts.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/chefs.png",
             "people": [
                 {
-                    "id": "g1h2i3j4-k5l6-m7n8-1234-567890abcdef",
+                    "id": "80b0895a-948b-4279-aa0e-8f99e5f352e7",
                     "name": "Gordon Ramsay",
                     "bio": "British chef, restaurateur, writer, and television personality, known for his fiery temper and high standards in the kitchen.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/ramsay.jpg"
                 },
                 {
-                    "id": "h2i3j4k5-l6m7-n8o9-2345-6789abcdef01",
+                    "id": "5a916449-c841-4aa6-93e1-b0451619a255",
                     "name": "Julia Child",
                     "bio": "American cooking teacher, author, and television personality, known for bringing French cuisine to the American public.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/child.jpg"
                 },
                 {
-                    "id": "i3j4k5l6-m7n8-o9p0-3456-789abcdef012",
+                    "id": "2cf9750b-98cf-498c-92cf-31647ab23841",
                     "name": "Anthony Bourdain",
                     "bio": "American chef, author, and travel documentarian, known for his explorations of international culture, cuisine, and the human condition.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/bourdain.jpg"
                 },
                 {
-                    "id": "j4k5l6m7-n8o9-p0q1-4567-89abcdef0123",
+                    "id": "49abc74f-348b-42fb-858c-b8165e325874",
                     "name": "Massimo Bottura",
                     "bio": "Italian restaurateur and an innovative chef, known for his three-Michelin-star restaurant Osteria Francescana.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/bottura.jpg"
                 },
                 {
-                    "id": "k5l6m7n8-o9p0-q1r2-5678-9abcdef01234",
-                    "name": "Ferran Adrià",
+                    "id": "1832549d-b510-4485-a6e5-1bf2d53a91e9",
+                    "name": "Ferran Adri\u00e0",
                     "bio": "Spanish chef famous for molecular gastronomy, and the former head chef of the elBulli restaurant.",
                     "photoURL": "https://akashshah87.github.io/amajsons/photos/people/adria.jpg"
                 }
             ]
         },
         {
-            "id": "4b76a923-390a-4d9a-ae88-e4f3f3d6baf8",
+            "id": "42d183ed-32d7-4dde-9fcf-491884b839b7",
             "name": "Cinema Legends",
             "description": "Profiles of iconic film directors, actors, and movie industry pioneers.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/cinema.png",
             "people": []
         },
         {
-            "id": "e8f13f28-6d1a-4b8e-8642-8b5a3c837d9b",
+            "id": "c0f7e127-910e-4d40-a93d-407e8163d156",
             "name": "Sports Heroes",
             "description": "Stories of legendary athletes and sports personalities.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/sports.png",
             "people": []
         },
         {
-            "id": "f1b31c3b-4198-4c47-a3dc-1aef92fe0c3e",
+            "id": "e09c5e75-aa1c-4016-8e80-cdfb0d6805af",
             "name": "Adventure and Explorers",
             "description": "Profiles of famous explorers and adventurers.",
             "photoURL": "https://akashshah87.github.io/amajsons/photos/packs/explorers.png",
