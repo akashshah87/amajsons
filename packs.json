@@ -148,15 +148,15 @@
                 },
                 {
                     "id": "295c9a2d-14a2-4b55-8930-b2b3f6471d0b",
-                    "name": "Freddie Mercury",
-                    "bio": "British singer-songwriter and the lead vocalist of the rock band Queen, known for his flamboyant stage persona and powerful vocals.",
-                    "photoURL": "https://akashshah87.github.io/amajsons/photos/people/mercury.jpg"
+                    "name": "Taylor Swift",
+                    "bio": "American singer-songwriter known for her narrative songwriting that often centers around her personal life.",
+                    "photoURL": "https://akashshah87.github.io/amajsons/photos/people/swift.jpg"
                 },
                 {
                     "id": "57b6140d-6576-4105-b4cb-3d7b4439b944",
                     "name": "Aretha Franklin",
                     "bio": "American singer, songwriter, and civil rights activist, known as the 'Queen of Soul' and famous for songs like 'Respect'.",
-                    "photoURL": "https://akashshah87.github.io/amajsons/photos/people/franklin.jpg"
+                    "photoURL": "https://akashshah87.github.io/amajsons/photos/people/arethafranklin.jpg"
                 }
             ]
         },
